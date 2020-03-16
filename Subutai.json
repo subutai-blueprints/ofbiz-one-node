@@ -26,7 +26,7 @@
     }
   ],
   "ansible-configuration": {
-    "source-url": "https://github.com/absidish/ofbiz-one-node/archive/master.zip",
+    "source-url": "https://github.com/subutai-blueprints/ofbiz-one-node/archive/master.zip",
     "ansible-playbook": "main.yml",
     "extra-vars": [
        {
