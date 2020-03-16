@@ -1,1 +1,1 @@
-# app1
+# Subutai OFBiz single node installation Blueprint
