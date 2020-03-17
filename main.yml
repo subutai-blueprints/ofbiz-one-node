@@ -74,6 +74,11 @@
       template:
         src: entityengine.xml
         dest: /opt/ofbiz-REL-16.11.06/framework/entity/config/entityengine.xml
+        
+    - name: copy ofbiz-component.xml
+      template:
+        src: ofbiz-component.xml
+        dest: /opt/ofbiz-REL-16.11.06/applications/accounting/ofbiz-component.xml        
     
     - name: copy ofbiz service
       template:
